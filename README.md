@@ -1,18 +1,29 @@
-<img src="https://cdn.prod.website-files.com/65f1f380796af02ae8b5fa68/667c274dca93ab782c5da7ee_hero-avatar-circle.png" width="250px">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=1500&pause=1000&color=3736F7&background=FFFFFF00&vCenter=true&width=507&lines=Welcome+aboard;Fellow+<𝚌𝚘𝚍𝚎𝚛/>!)](https://git.io/typing-svg)      
 
 [![Linkedin Badge](https://img.shields.io/badge/-Marc_Cantero-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marc-cantero/)](https://www.linkedin.com/in/marc-cantero/)
 [![Gmail Badge](https://img.shields.io/badge/-marcanta7@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcanta7@gmail.com)](mailto:marcanta7@gmail.com)
+## About me <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-I am Coke Stuyck 😃. I am from Valencia, Spain and currently studying a Masters Degree in Artificial Intelligence in EDEM Business School 🏫. Graphic design has been my passion for almost 20 years and I've been a web designer most of the time. I love to explore and learn about new things.
+My name is Marc Cantero and currently I am living in 📍 Valencia, Spain. I am an **Industrial Engineer** specialiced in **Information Systems** and have half a decade of experience in Sales. I also have passion for the digital work since I am a kid 💻.  Ccurrently studying a Masters Degree in Big Data & Cloud in EDEM Business School 🏫.  I love to explore and learn about new things. But it’s not all about work… I'm a musician, playing piano and singing in choirs! 🎹 
 
-## ⚡ Technologies
-Talk to me about:
-- Front-end development using **HTML, Javascript (Node.js), CSS (Sass).**.
-- Robust full-stack system design implementation.
-- Solving Data structure and algorithm questions in **Java and Python**.
-## Hello World!! 🤓
-- 💬 Ask me about anything an everything.
-- 🎯 Graphic Design Portfolio site: [Portfolio](https://cokestuyck.webflow.io/).
-- 👾 Front End playground: [Playground](https://github.com/cokecancook/cokecancook.github.io/).
-- ⚡ Fun fact: Internet users blink less than usual.
+
+## 🛠️ Tools of the Trade
+
+- **Python** to interact and program all sort of things 🐍  
+- **SQL** to chat with databases 🤖
+- **Cloud** currently working with Google Cloud & AWs ☁️
+- **Data ingestion tools** such as Nifi or MongoDB
+- **Tableau** and **Power BI** to present the Data 📊  
+
+## 🌍 Languages I Speak
+
+- **Spanish**: Native 🥘
+- **Valencian**: Native  
+- **English**: Ready when you are! (C1/Fluent)
+- **German**: Work in progress 👷‍♀️
+
+---
+
+## 🔮 What’s next for me?
+
+I’m always looking for new challenges and opportunities. If you have an exciting project (or just want to talk about data, tech, productivity, or music), feel free to reach out!
