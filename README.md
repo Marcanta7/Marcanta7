@@ -11,7 +11,7 @@ My name is Marc Cantero and currently I am living in 📍 Valencia, Spain. I am 
 
 - **Python** to interact and program all sort of things 🐍  
 - **SQL** to chat with databases 🤖
-- **Cloud** currently working with Google Cloud & AWs ☁️
+- **Cloud** currently working with Google Cloud & AWS ☁️
 - **Data ingestion tools** such as Nifi or MongoDB
 - **Tableau** and **Power BI** to present the Data 📊  
 
