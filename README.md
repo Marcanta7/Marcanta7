@@ -5,9 +5,20 @@
 
 ## About me
 
-Data Engineer with a background in industrial engineering. I build cloud-native data pipelines, ELT workflows, and streaming infrastructure — currently working at Helloprint (Valencia/Rotterdam), where I work daily with GCP, DBT, Kafka, and Terraform.
+Data Engineer with a background in industrial engineering. I build cloud-native data pipelines, ELT workflows, and streaming infrastructure — Dedicated period of upskilling to broaden my data engineering profile beyond GCP:\
+• Preparing for the AWS Certified Data Engineer – Associate (DEA-C01)\
+• Building an end-to-end AWS data pipeline project (S3, Glue, Athena, Step Functions, Terraform) — link coming soon\
+• Next: lakehouse fundamentals on Databricks (Delta Lake, PySpark, dbt-databricks)
 
-Finished an MSc in Big Data & Cloud at EDEM Business School (Marina de Empresas, Valencia). Outside of data: pianist and choir singer 🎹
+Worked at Helloprint (Valencia/Rotterdam), where I work daily in:\
+• Designed and built end-to-end ELT pipelines from scratch to ingest product catalogue, stock, and pricing data from 12+ supplier APIs into Google Cloud Storage, orchestrated with Apache Airflow (Cloud Composer) and ingested via dlt\
+• Standardised raw supplier data into unified catalogue models using DBT — implementing staging, intermediate, and mart layers with schema tests and source freshness checks in BigQuery\
+• Worked within a cross-functional data team of 6 to maintain data quality across the supplier integration layer, ensuring consistent and reliable datasets for downstream analytics and product teams\
+• Managed cloud infrastructure and pipeline environments using Terraform and Docker, supporting reproducible deployments across GCP\
+• Contributed to the company's Kafka-based event streaming infrastructure, gaining hands-on experience with real-time data flows alongside batch ELT processes
+
+Finished an MSc in Big Data & Cloud at EDEM Business School (Marina de Empresas, Valencia).\
+Outside of data: pianist and choir singer 🎹
 
 ## Stack
 
